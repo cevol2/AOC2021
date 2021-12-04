@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+# Advent of Code Day 1
+# https://adventofcode.com/2021/day/1
+# Richard Y
 
 import os
 
@@ -25,9 +28,7 @@ while not done_loop:
 
 print(increase-1)
         
-## PART II
-# 
-
+## PART II 
 
 def push_number(number):
     my_list[0] = my_list[1]
